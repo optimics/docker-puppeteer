@@ -1,4 +1,4 @@
-# docker-puppeteer
+# Docker: optimics/puppeteer
 
 [![](https://badgen.net/github/checks/optimics/docker-puppeteer)](https://github.com/optimics/docker-puppeteer/actions)
 [![](https://badgen.net/github/tag/optimics/docker-puppeteer)](https://github.com/optimics/docker-puppeteer/tags)
